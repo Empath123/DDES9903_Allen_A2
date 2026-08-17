@@ -23,6 +23,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_9903_Allen/Scene/6 Basement.unity
     guid: 382bc0dd80505cb4ab8b23545db305ee
+  - enabled: 1
+    path: Assets/_9903_Allen/Scene/7 Choose.unity
+    guid: e2fda2b49dfd04f43a8707e89d9621cc
+  - enabled: 1
+    path: Assets/_9903_Allen/Scene/8 Hell.unity
+    guid: ff3910dcab68ffc40b078041a6349ed5
+  - enabled: 1
+    path: Assets/_9903_Allen/Scene/9 River.unity
+    guid: fbe9168a35a23d8499ba6ddf04fc7138
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3c28928f4ba463b408fa3dad31f078ec, type: 2}
